@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://lookerstudio.google.com/reporting/9f610d31-59ab-4b0b-9713-52b24596c0b7">
-    <img src="https://lookerstudio.google.com/reporting/9f610d31-59ab-4b0b-9713-52b24596c0b7" alt="Banner" width="720">
+    <img src="https://github.com/mhadidermawan/Bank-Muamalat--Sales-Dashboard--VIX/blob/main/Image/Dashboard.png" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
