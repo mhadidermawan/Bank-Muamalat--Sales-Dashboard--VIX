@@ -11,21 +11,12 @@
     </ul>
   </div>
   
-  <p>Retail Data Pipeline with Terraform, Airflow, GCP BigQuery, dbt, Soda, and Looker</p>
+  <p>Sales Dashboard by Google Looker Studio</p>
     <a href="https://lookerstudio.google.com/reporting/9f610d31-59ab-4b0b-9713-52b24596c0b7" target="_blank">Dashboard</a>
     📊 
-    <a href="https://github.com/mhadidermawan/Bank-Muamalat--Sales-Dashboard--VIX" target="_blank">Request Feature</a>
 </div>
 <br>
 
-## 📝 Table of Contents
-
-1. [ Project Overview ](#introduction)
-2. [ Key Insights ](#features)
-3. [ Project Architecture ](#arch)
-4. [ Usage ](#usage)
-5. [ Credits ](#refs)
-6. [ Contact ](#contact)
 
 <a name="introduction"></a>
 ## 🔬 Project Overview 
@@ -91,9 +82,7 @@ The end-to-end data pipeline includes the following steps:
   
 - Readme inspired by this [Project](https://github.com/SVizor42/DE_Zoomcamp/tree/main/Project)
 
-<a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hadidermawan/) • •
+[Gmail](dermawanhadi34@gmail.com)
